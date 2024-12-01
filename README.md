@@ -2,7 +2,7 @@
 # Hi there, I'm Sachin Magar 👋
 
 ## 🔭 I’m currently working on
-- EMS – Employee management system with CRUD functionality using SpringBoot.
+- EMS – Employee management system Backend using SpringBoot.
 - E-commerce website – An e-commerce website using Laravel.
 
 ## 🌱 I’m currently learning JAVA,PHP
